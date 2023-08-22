@@ -119,7 +119,7 @@ void modificarCD()
         }
     }
 
-    std::cout << "No se encontró ningun CD con ese codigo." << std::endl;
+    std::cout << "No se encontro ningun CD con ese codigo." << std::endl;
 }
 
 void realizarVenta()
